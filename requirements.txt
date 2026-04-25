@@ -8,7 +8,7 @@ playwright>=1.56.0,<2.0.0
 urllib3>=2.6.3,<3.0.0
 
 # Image validation (used by format-adapter agent)
-Pillow>=11.0.0,<13.0.0
+Pillow>=12.2.0,<13.0.0
 
 # PDF report generation (used by generate_report.py)
 reportlab>=4.0,<5.0.0
